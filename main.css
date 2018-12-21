@@ -16,13 +16,24 @@ h4 {
 }
 a:visited {
   color: purple;
+
 }
 
 ol,
 ul {
  text-align:center;
-}
+ul {
+ list-style: square url(/images/goldStar.png);
+
+ }
 
 img {
  border: double 8px white;
+
 }
+
+p {
+    margin: 14px 0 10px 0;
+    text-align: center;
+    
+  }
