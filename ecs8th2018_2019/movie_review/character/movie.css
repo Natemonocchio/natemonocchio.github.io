@@ -1,0 +1,62 @@
+
+@import url('https://fonts.googleapis.com/css?family=Staatliches');
+
+html {
+  width: 320px;
+  margin: 0 auto 0 auto;
+  font: 18px 'Trebuchet MS', sans-serif;
+  background-image: url(/images/textures/light6a.png);
+  background-color:darkred;
+  
+
+}
+
+footer {
+  color:darkslateGrey;
+  font: 'Staatliches' cursive;
+  text-align: center;
+  border: 12px ridge darkslateGrey ;
+  
+  
+  
+}
+  
+h1 {
+  color:firebrick;
+  font: 40px 'Staatliches' cursive;
+  text-shadow: 1px 1px 1px ;
+  text-align: center;
+  border: 12px ridge darkslateGrey;
+
+  
+}
+
+h2 {
+  font: 'Staatliches' cursive;
+  text-align: center;
+  border: 12px ridge purple;
+  color: darkslateGrey;
+  
+}
+
+a {
+  color: darkslateGrey;
+  font-family: 'Staatliches' cursive;
+   
+  
+}
+
+a:hover {
+  color:purple;
+ 
+
+}
+
+img {
+  border: 12px ridge purple; 
+}
+
+ul {
+  list-style-image: url(/images/icons/icon2.png);
+  
+}
