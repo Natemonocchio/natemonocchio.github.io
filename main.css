@@ -1,6 +1,7 @@
 html {
  background-color: lightSalmon; 
  text-align: center;
+ font-family: font: 'Arial Black', sans-serif;
 
 }
 
@@ -8,11 +9,20 @@ h1,
 h2,
 h4 {
  color: cornsilk;
- text-align: justify;
+ text-align: center;
  text-shadow: 0px 1px 0px darkGray, 0px 2px 0px gray, 0px 3px 0px lightslategray, 0px 4px 0px dimGray, 0px 5px 0px darkslategray, 0px 6px 5px black;
  
  
 }
 a:visited {
   color: purple;
+}
+
+ol,
+ul {
+ text-align:center;
+}
+
+img {
+ border: double 8px white;
 }
